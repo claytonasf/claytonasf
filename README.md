@@ -7,7 +7,7 @@
 - 🎯 Atualmente, desenvolvo APIs, scripts de automação e sites.
 
 - 📚 Além disso, estudo inglês e estou sempre buscando crescer como profissional e como pessoa.
-- 
+  
 - 🔗 Meus objetivos no GitHub:
 
  Compartilhar aprendizado e boas práticas
