@@ -10,7 +10,7 @@
   
 - 🔗 Meus objetivos no GitHub:
 
- Compartilhar aprendizado e boas práticas
+ Compartilhar aprendizado e boas práticas <br>
  Contribuir para a comunidade dev
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
