@@ -10,7 +10,7 @@
 - 
 - 🔗 Meus objetivos no GitHub:
 
--- Compartilhar aprendizado e boas práticas
--- Contribuir para a comunidade dev
+ Compartilhar aprendizado e boas práticas
+ Contribuir para a comunidade dev
 
 ✨ Vamos conectar? Sinta-se à vontade para explorar meus repositórios e trocar ideias! 😃
