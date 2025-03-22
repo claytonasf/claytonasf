@@ -3,6 +3,13 @@
 - 🚀 Desenvolvedor Full Stack apaixonado por tecnologia, inovação e resolução de problemas!
 
 - 💡 Trabalho com PHP (Laravel, Symfony), JavaScript (Vue ,Node.js), HTML, CSS e estou sempre aprimorando minhas habilidades.
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 - 🎯 Atualmente, desenvolvo APIs, scripts de automação e sites.
 
