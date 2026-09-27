@@ -2,7 +2,7 @@
 
 - 🚀 Desenvolvedor Full Stack apaixonado por tecnologia, inovação e resolução de problemas!
 
-- 💡 Trabalho com PHP (Laravel, Symfony), JavaScript (Vue ,Node.js), HTML, CSS e estou sempre aprimorando minhas habilidades.
+- 💡 Trabalho com PHP (Laravel, Symfony), JavaScript (React ,Node.js), HTML, CSS e estou sempre aprimorando minhas habilidades.
 
 - 🎯 Atualmente, desenvolvo APIs, scripts de automação e sites.
 
